@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Martin Metodiev.<br>🌱 I’m currently learning<br>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MartinMetodiev) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
